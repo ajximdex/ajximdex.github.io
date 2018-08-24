@@ -1,0 +1,18 @@
+{
+	"schema":
+	{
+		"type": "container",
+		"options":
+		{
+			"styles": [],
+			"tags": []
+		},
+		"view": "header",
+		"sections":{},
+		"lang":
+		{
+			"es": "Cabecera",
+			"en": "Header"
+		}
+	}
+}
